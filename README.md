@@ -1,4 +1,4 @@
-# Replication Package for Ramos and Vital (2025)
+# Replication Package for Ramos and Vital (2025) Journal of Family Research
 
 **Paper:** [Research note: Merry now, marry later? Initial labor market conditions and marital intentions in the Philippines](https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/1226)
 
@@ -22,7 +22,11 @@ contains the codes to replicate the figures and tables as they appear on the res
 
 The Graduate Tracer Survey microdata used in this study is available by request from the Commission on Higher Education of the Philippines. 
 
-## Citation
+## License and Citation
+
+The replication code in this repository is released under the MIT License. See the `LICENSE` file for details.
+
+The license applies only to the code and documentation in this repository. The underlying survey data are not redistributed here and remain subject to the access conditions and terms of use of the original data provider.
 
 Please cite the associated article when using the replication package:
 
